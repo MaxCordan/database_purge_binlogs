@@ -3,7 +3,7 @@
 dbuser='root'
 dbpassword='<password>'
 #How many days must be decrease
-#May be less as 28 days
+#May be less than 28 days
 dicr=5
 
 #Start checking correct date
